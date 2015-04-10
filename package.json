@@ -1,0 +1,6 @@
+{
+  "main": "index.js",
+  "name": "json-pretty",
+  "repository": "https://github.com/michielbdejong/json-pretty",
+  "version": "0.0.1"
+}
