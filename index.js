@@ -9,7 +9,7 @@ module.exports = (function() {
       }
       return ary;
     }
-    if(typeof obj === 'object') {
+    if(obj && typeof obj === 'object') {
       var tObj = {};
       Object.keys(obj).sort().forEach(function(key) {
         tObj[key] = sortObject(obj[key]);
