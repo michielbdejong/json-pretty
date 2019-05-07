@@ -1,5 +1,7 @@
 # Simple module for producing nice JSON.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/michielbdejong/json-pretty.svg)](https://greenkeeper.io/)
+
 Similar to the https://www.npmjs.com/package/json-prettify CLI tool, except you can require this
 one in your projects.
 
